@@ -640,8 +640,7 @@ Make sure you have installed:
 
 ## 1. Clone the Repository
 
-```bash
-git clone https://github.com/rohityadav8286/Medicare.git
+
 
 cd Medicare
 ```
@@ -823,10 +822,3 @@ The AI Health feature provides preliminary and educational information based on 
 B.Tech — Computer Science & Engineering
 
 ---
-
-# ⭐ Support
-
-If you find this project useful, consider giving the repository a ⭐ star.
-
-**GitHub Repository:**
-https://github.com/rohityadav8286/Medicare
